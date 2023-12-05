@@ -17,4 +17,4 @@ As Storyweaver does not collect user data and operates without specific permissi
 We may update our Privacy Policy from time to time. Any changes will be reflected with a new "Last updated" date. We encourage you to review this Privacy Policy periodically for any changes. By continuing to play Storyweaver, you acknowledge and agree to the updated Privacy Policy.
 
 ### Contact Us:
-If you have any questions or concerns about this Privacy Policy, please contact us at [your contact information].
+If you have any questions or concerns about this Privacy Policy, please contact us at dev@gregoriusyuristama.me.
