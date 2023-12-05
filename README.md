@@ -1,6 +1,6 @@
 # Privacy Policy for Storyweaver App
 
-## Last updated: 30 No 2023
+## Last updated: 5th Dec 2023
 
 Thank you for playing Storyweaver, the Cultural RPG story game that allows the player's consciousness to affect existing folklore, inspired by Timun Mas from Central Java. This Privacy Policy outlines how we handle your data.
 
